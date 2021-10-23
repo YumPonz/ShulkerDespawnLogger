@@ -1,0 +1,8 @@
+name: ShulkerDespawnLogger
+version: '${project.version}'
+main: net.shin19.shulkerdespawnlogger.ShulkerDespawnLogger
+api-version: 1.17
+commands:
+  shulker:
+    default: op
+    permission: shulkerdespawnlogger.command
